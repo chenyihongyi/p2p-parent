@@ -140,6 +140,13 @@
 			<version>1.7.12</version>
 		</dependency>
 
+		<!--引入javax.mail -->
+		<dependency>
+			<groupId>javax.mail</groupId>
+			<artifactId>mail</artifactId>
+			<version>1.4.1</version>
+		</dependency>
+
 		<!--freemarker -->
 		<dependency>
 			<groupId>org.freemarker</groupId>
